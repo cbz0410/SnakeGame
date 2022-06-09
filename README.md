@@ -1,6 +1,4 @@
 # SnakeGame
-
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 This is my first reverse-engineered classic game in Unity 2D: the classic Snake.
 
 In this project, I learned the basics of Unity 2D, including:
@@ -11,7 +9,6 @@ In this project, I learned the basics of Unity 2D, including:
 -  Using the FixedUpdate() method for physics
 -  Collision detection and triggers
 
-https://user-images.githubusercontent.com/106714582/172952965-c9b3255a-a309-490c-8c00-0aa468db62de.mov
+https://user-images.githubusercontent.com/106714582/172954041-385c5f9f-fd1a-42e3-bd40-03819c67a52b.mov
 
-Here is a link to some gameplay: https://youtu.be/rc6ZpQsyTCg
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Here is a link to the gameplay: https://youtu.be/rc6ZpQsyTCg
